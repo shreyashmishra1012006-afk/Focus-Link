@@ -74,4 +74,4 @@ Execute the main script. The system will first prompt you for an audio calibrati
 ```bash
 python FocusLink.py
 ```
-To stop the tracker, press the q key while the video window is focused.
+To stop the tracker, press the q key while the video window is focused..
